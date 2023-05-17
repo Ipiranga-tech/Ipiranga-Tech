@@ -2,7 +2,7 @@
 
 ## Projeto criado para Obtenção de dados que vamos transformar em informações e criar um perfil dos nosso consumidores, fazendo uma análise destes dados através de planilhas eletrônicas. que podem ser feitas no Excel ou PowerBI
 
-# Contriuidores do Projeto
+# Contribuidores do Projeto
 
 ## Líderes:
 Edson Gonzaga, Pedro Horta, Sansão Santos
@@ -10,13 +10,16 @@ Edson Gonzaga, Pedro Horta, Sansão Santos
 ## Programadores:
 Renato Caldara, Renan
 
+## Coleta de dados
+Felipe Oliveira
+
 ## Orientação
 O projeto foi orientado pelo Professor Ricardo A. Bontempo, que desempenhou um papel fundamental no desenvolvimento e direcionamento do projeto.
 
 ## Metodologias e Tecnologias Utilizadas
 As seguintes tecnologias e metodologias foram utilizadas no desenvolvimento do projeto:
 
-Estruração de pesquisa(SCRUM), Trello(KANBAN) e Dashboard(EXCEL)
+Estruração de pesquisa(SCRUM), Trello(KANBAN), Formulário (Google Forms) e Dashboard(EXCEL)
 
 # Resumo do Projeto
 Nos últimos anos, a nossa frota cresceu de forma exponencial
@@ -32,6 +35,7 @@ qualitativas para conhecer um pouco mais seus clientes.
 - Estruturação da pesquisa com base do **Scrum.**
 
 - Montagem do **Questionário**, para realização da Pesquisa
+através do Google Forms
 
 - Montagem da **Base de Dados na Planilha** com filtros para
 sua Análise.
