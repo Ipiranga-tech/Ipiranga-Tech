@@ -8,7 +8,7 @@
 Edson Gonzaga, Pedro Horta, Sansão Santos
 
 ## Programadores:
-Renato Caldara, Renan
+Renato Caldara.
 
 ## Coleta de dados
 Felipe Oliveira
