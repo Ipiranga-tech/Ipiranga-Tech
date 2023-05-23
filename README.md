@@ -1,17 +1,20 @@
-# Projeto Integrador IPIRANGA<>Inclusão Tech com parceria da Gama Academy>
+# Projeto Integrador IPIRANGA<>Inclusão Tech com parceria da Gama Academy
 
 ## Projeto criado para Obtenção de dados que vamos transformar em informações e criar um perfil dos nosso consumidores, fazendo uma análise destes dados através de planilhas eletrônicas. que podem ser feitas no Excel ou PowerBI
 
 # Contribuidores do Projeto
 
-## Líderes:
-Edson Gonzaga, Pedro Horta, Sansão Santos
+## Scrum Master:
+Pedro Horta - Responsável por facilitar as atividades e pela remoção de quaisquer obstáculos observados pelo time.
 
-## Programadores:
-Renato Caldara.
+## Product Owner:
+Sansão Cunha - Responsável por definir funcionalidades do Dashboard, corrigir bugs e prioriza os itens de Backlog.
 
-## Coleta de dados
-Felipe Oliveira
+## Analyst - Time:
+Renato Caldara - Responsável por reunir as informações analíticas do Dashboard e apresentar melhorias.
+
+## WorkBench:
+Felipe Oliveira - Responsável pela bancada de dados de todo o trabalho, como buscar novas informações e diretrizes da pesquisa com base em Scrum.
 
 ## Orientação
 O projeto foi orientado pelo Professor Ricardo A. Bontempo, que desempenhou um papel fundamental no desenvolvimento e direcionamento do projeto.
