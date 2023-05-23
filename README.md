@@ -13,7 +13,7 @@ Sansão Cunha - Responsável por definir funcionalidades do Dashboard, corrigir 
 ## Analyst - Time:
 Renato Caldara - Responsável por reunir as informações analíticas do Dashboard e apresentar melhorias.
 
-## WorkBench:
+## WorkBench - Time:
 Felipe Oliveira - Responsável pela bancada de dados de todo o trabalho, como buscar novas informações e diretrizes da pesquisa com base em Scrum.
 
 ## Orientação
