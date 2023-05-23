@@ -38,7 +38,7 @@ qualitativas para conhecer um pouco mais seus clientes.
 - Estruturação da pesquisa com base do **Scrum.**
 
 - Montagem do **[Questionário](https://forms.office.com/e/njc2aDC5M3)**, para realização da Pesquisa
-através do Google Forms
+através do Microsoft Forms
 
 - Montagem da **Base de Dados na Planilha** com filtros para
 sua Análise.
