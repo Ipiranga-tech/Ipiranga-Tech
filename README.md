@@ -10,10 +10,10 @@ Pedro Horta - Responsável por facilitar as atividades e pela remoção de quais
 ## Product Owner:
 Sansão Cunha - Responsável por definir funcionalidades do Dashboard, corrigir bugs e prioriza os itens de Backlog.
 
-## Analyst - Time:
+## Data Analyst - Time:
 Renato Caldara - Responsável por reunir as informações analíticas do Dashboard e apresentar melhorias.
 
-## WorkBench - Time:
+## Researcher - Time:
 Felipe Oliveira - Responsável pela bancada de dados de todo o trabalho, como buscar novas informações e diretrizes da pesquisa com base em Scrum.
 
 ## Orientação
