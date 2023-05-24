@@ -11,7 +11,7 @@ Pedro Horta - Responsável por facilitar as atividades e pela remoção de quais
 Sansão Cunha - Responsável por definir funcionalidades do Dashboard, corrigir bugs e prioriza os itens de Backlog.
 
 ## Data Analyst - Time:
-Renato Caldara - Responsável por reunir as informações analíticas do Dashboard e apresentar melhorias.
+Edson Gonzaga - Responsável por reunir as informações analíticas do Dashboard e apresentar melhorias.
 
 ## Researcher - Time:
 Felipe Oliveira - Responsável pela bancada de dados de todo o trabalho, como buscar novas informações e diretrizes da pesquisa com base em Scrum.
