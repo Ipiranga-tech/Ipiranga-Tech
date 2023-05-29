@@ -48,10 +48,10 @@ se tornaram em informações.
 
 - Construção de um **DashBoard** para compor uma ferramenta
 de **BI**, na **tomada de decisão.**
-
 # Conclusão
-O projeto será desenvolvido por EXCEL, aonde todas as atualizações estão sendo realizadas com base no GitHub, com intuito de facilitar a
-visualização e o entendimento de todos os
-dados, pense também no design e na experiência de quem irá ler
-o seu projeto e utilizar o seu DashBoard.
+Entendemos que o maior beneficio obtido no desenvolvimento deste projeto, foi justamente a oporutnidade de aplicarmos na prática os conhecimentos aos quais tivemos acesso durante as aulas do curso.
+Foi uma experiencia unica onde pudemos trocar ideias e aplicar os conceitos de formulas e tratamentos de dados.
 
+O projeto foi desenvolvido utilizando recursos do MS-EXCEL, 
+Para repositório e atualizações de arquivos e objetos foi utilizado o GitHub.
+o MS-Form foi a ferramenta usda para criação e aplicação do Questionário para a pesquisa. 
